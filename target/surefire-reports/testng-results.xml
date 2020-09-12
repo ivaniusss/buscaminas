@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-09-12T13:45:16 PET" name="MinesweeperTest" finished-at="2020-09-12T13:45:16 PET" duration-ms="88">
+  <suite started-at="2020-09-12T13:59:34 PET" name="MinesweeperTest" finished-at="2020-09-12T13:59:34 PET" duration-ms="104">
     <groups>
     </groups>
-    <test started-at="2020-09-12T13:45:16 PET" name="Command line test" finished-at="2020-09-12T13:45:16 PET" duration-ms="88">
+    <test started-at="2020-09-12T13:59:34 PET" name="Command line test" finished-at="2020-09-12T13:59:34 PET" duration-ms="104">
       <class name="MinesweeperTest">
-        <test-method signature="testCase0()[pri:0, instance:MinesweeperTest@79ca92b9]" started-at="2020-09-12T13:45:16 PET" name="testCase0" finished-at="2020-09-12T13:45:16 PET" duration-ms="35" status="PASS">
+        <test-method signature="testCase0()[pri:0, instance:MinesweeperTest@79ca92b9]" started-at="2020-09-12T13:59:34 PET" name="testCase0" finished-at="2020-09-12T13:59:34 PET" duration-ms="41" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase0 -->
-        <test-method signature="testCase1()[pri:0, instance:MinesweeperTest@79ca92b9]" started-at="2020-09-12T13:45:16 PET" name="testCase1" finished-at="2020-09-12T13:45:16 PET" duration-ms="30" status="PASS">
+        <test-method signature="testCase1()[pri:0, instance:MinesweeperTest@79ca92b9]" started-at="2020-09-12T13:59:34 PET" name="testCase1" finished-at="2020-09-12T13:59:34 PET" duration-ms="40" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase1 -->
-        <test-method signature="testCase2()[pri:0, instance:MinesweeperTest@79ca92b9]" started-at="2020-09-12T13:45:16 PET" name="testCase2" finished-at="2020-09-12T13:45:16 PET" duration-ms="2" status="PASS">
+        <test-method signature="testCase2()[pri:0, instance:MinesweeperTest@79ca92b9]" started-at="2020-09-12T13:59:34 PET" name="testCase2" finished-at="2020-09-12T13:59:34 PET" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase2 -->

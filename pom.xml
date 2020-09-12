@@ -41,12 +41,10 @@
         </plugins>
     </build>
     <properties>
-        <sonar.projectKey>cs2901-2020-2_02b-buscaminas-team-zero</sonar.projectKey>
-        <sonar.organization>cs2901-2020-2</sonar.organization>
+        <sonar.projectKey>ivaniuss_buscaminas</sonar.projectKey>
+        <sonar.organization>ivaniuss</sonar.organization>
         <sonar.host.url>https://sonarcloud.io/</sonar.host.url>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
-
-
 </project>

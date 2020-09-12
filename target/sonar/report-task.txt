@@ -1,7 +1,0 @@
-organization=cs2901-2020-2
-projectKey=cs2901-2020-2_02b-buscaminas-team-zero
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.11869
-dashboardUrl=https://sonarcloud.io/dashboard?id=cs2901-2020-2_02b-buscaminas-team-zero
-ceTaskId=AXSDmA13L_Erxu3yu_Rk
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXSDmA13L_Erxu3yu_Rk

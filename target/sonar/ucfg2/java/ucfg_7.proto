@@ -1,36 +1,0 @@
-
-Minesweeper#inputBoardSize()I_
-U/home/ivaniuss/utec/software1/02b-buscaminas-team-zero/src/main/java/Minesweeper.javag g($"1*¶
-1_
-U/home/ivaniuss/utec/software1/02b-buscaminas-team-zero/src/main/java/Minesweeper.javah$ h(*ç
-ä
-_
-U/home/ivaniuss/utec/software1/02b-buscaminas-team-zero/src/main/java/Minesweeper.javah$ h(-
-%0java.io.InputStream"__id*
-""êç
-_
-U/home/ivaniuss/utec/software1/02b-buscaminas-team-zero/src/main/java/Minesweeper.javah h(#
-%1java.util.Scanner"java.util.Scanner‘
-—
-_
-U/home/ivaniuss/utec/software1/02b-buscaminas-team-zero/src/main/java/Minesweeper.javah h(.
-%2"0java.util.Scanner#<init>(Ljava/io/InputStream;)V*
-
-%1java.util.Scanner*
-
-%0java.io.InputStream°
-û
-_
-U/home/ivaniuss/utec/software1/02b-buscaminas-team-zero/src/main/java/Minesweeper.javah h(/
-inputjava.util.Scanner"__id*
-
-%1java.util.Scanner∂≥
-_
-U/home/ivaniuss/utec/software1/02b-buscaminas-team-zero/src/main/java/Minesweeper.javai i($	
-%3int"java.util.Scanner#nextInt()I*
-
-inputjava.util.Scanner2	nextInt()"i
-_
-U/home/ivaniuss/utec/software1/02b-buscaminas-team-zero/src/main/java/Minesweeper.javaj j(
-""B"
-Minesweeper

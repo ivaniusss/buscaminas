@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="MinesweeperTest" time="0.067" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="MinesweeperTest" time="0.083" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="14.0.2+12"/>
@@ -40,7 +40,7 @@
     <property name="java.class.path" value="/home/ivaniuss/maven/apache-maven-3.6.3/boot/plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="14"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar"/>
     <property name="java.home" value="/usr/lib/jvm/java-14-openjdk"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -55,7 +55,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
   </properties>
-  <testcase classname="MinesweeperTest" name="testCase0" time="0.037"/>
-  <testcase classname="MinesweeperTest" name="testCase1" time="0.029"/>
-  <testcase classname="MinesweeperTest" name="testCase2" time="0.001"/>
+  <testcase classname="MinesweeperTest" name="testCase0" time="0.043"/>
+  <testcase classname="MinesweeperTest" name="testCase1" time="0.038"/>
+  <testcase classname="MinesweeperTest" name="testCase2" time="0.002"/>
 </testsuite>
